@@ -1,1 +1,2 @@
-# social-media
+# sosial-media
+Tugas: Social Media
